@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "react_native",
-    "slug": "react_native"
+    "slug": "react_native",
+    "android": {
+      "package": "com.samplereactnative.project"
+    }
   }
 }
